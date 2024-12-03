@@ -20,7 +20,7 @@ export default function NewProject({onCancel,onSave}) {
             id: Math.random()
         }
 
-        if(data.current.title==='' || data.current.description==='' || data.current.date===''){
+        if(data.current.title==='' || data.current.date===''){
             modal.current.open();
             return;
         }
