@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-project-management-app/static/css/main.644963c0.css",
+    "main.js": "/react-project-management-app/static/js/main.412c1d48.js",
+    "static/media/no-projects.png": "/react-project-management-app/static/media/no-projects.339f6e03f6371942794a.png",
+    "index.html": "/react-project-management-app/index.html",
+    "main.644963c0.css.map": "/react-project-management-app/static/css/main.644963c0.css.map",
+    "main.412c1d48.js.map": "/react-project-management-app/static/js/main.412c1d48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.644963c0.css",
+    "static/js/main.412c1d48.js"
+  ]
+}
