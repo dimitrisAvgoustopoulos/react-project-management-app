@@ -6,7 +6,7 @@ Welcome to the **React Project Management App** – **fun-made project**, and an
 This project was created for personal improvement with React JS, and to show how you can build something useful while enjoying the process. It's all about learning, experimenting, and having fun with code!
 ## Features
 
-- **Create and Manage Projects:** Easily organize your tasks and projects in a fun, intuitive way.
+- **Create and Manage Projects:** Easily organize your tasks and projects in a simple way.
 - **Task Management:** Add and edit tasks effortlessly.
 - **Responsive Design:** Works seamlessly on both desktop, tablet and mobile.
 
