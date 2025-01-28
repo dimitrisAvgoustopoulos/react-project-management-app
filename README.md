@@ -8,7 +8,7 @@ This project was created for personal improvement with React JS, and to show how
 
 - **Create and Manage Projects:** Easily organize your tasks and projects in a simple way.
 - **Task Management:** Add and edit tasks effortlessly.
-- **Responsive Design:** Works seamlessly on both desktop, tablet and mobile.
+- **Responsive Design:** Works seamlessly on desktop, tablet and mobile.
 
 
 ## Run Locally
