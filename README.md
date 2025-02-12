@@ -10,8 +10,9 @@ This project was created for personal improvement with React JS, and to show how
 - **Task Management:** Add and edit tasks effortlessly.
 - **Responsive Design:** Works seamlessly on desktop, tablet and mobile.
 
+## Getting Started  
 
-## Run Locally
+### Run Locally  
 
 Clone the project
 
@@ -34,9 +35,8 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
-
 
 ## Enjoy Online
 
