@@ -1,5 +1,5 @@
 
-# React - Project Management App 🚀
+# React - Project Management App 📌
 
 Welcome to the **React Project Management App** – **fun-made project**, and an experimental take on organizing and managing projects using the power of React! 
 
@@ -41,4 +41,7 @@ Start the server
 ## Enjoy Online
 
 Check it out and give it a try: [React Project Management App](https://dimitrisavgoustopoulos.github.io/react-project-management-app/)
+
+## Screenshots
+![Project Screenshot](screenshot.png)
 
